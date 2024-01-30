@@ -1,0 +1,132 @@
+{
+  "basic_info": {
+    "name": "Artur Chuikov / Artur Czujkow",
+    "titles": [
+      "Front-end Developer",
+      "Wordpress Developer",
+      "Illustrator/Photoshop/Figma Designer"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/Ch-a-k",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ch_a_k",
+        "class": "fab fa-instagram"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/artur-chuikov-18922b201/",
+        "class": "fab fa-linkedin"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain colored",
+        "level": "95"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain colored",
+        "level": "85"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain colored",
+        "level": "95"
+      },
+      {
+        "name": "Sass",
+        "class": "devicon-sass-original colored",
+        "level": "75"
+      },
+      {
+        "name": "Less",
+        "class": "devicon-less-plain-wordmark colored",
+        "level": "75"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain colored",
+        "level": "70"
+      },
+      {
+        "name": "React.js",
+        "class": "devicon-react-plain colored",
+        "level": "70"
+      },
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain colored",
+        "level": "90"
+      },
+      {
+        "name": "WordPress",
+        "class": "devicon-wordpress-plain",
+        "level": "85"
+      },
+      {
+        "name": "Illustrator",
+        "class": "devicon-illustrator-plain colored",
+        "level": "80"
+      },
+      {
+        "name": "Photoshop",
+        "class": "devicon-photoshop-plain colored",
+        "level": "80"
+      },
+      {
+        "name": "Figma",
+        "class": "devicon-figma-plain colored",
+        "level": "70"
+      },
+      {
+        "name": "Node.js",
+        "class": "devicon-nodejs-plain colored",
+        "level": "80"
+      },
+      {
+        "name": "Docker",
+        "class": "devicon-docker-plain colored",
+        "level": "80"
+      },
+      {
+        "name": "MongoDB",
+        "class": "devicon-mongodb-plain colored",
+        "level": "50"
+      },
+      {
+        "name": "Languages:",
+        "class": "devicon-plain",
+        "level": "100"
+      },
+      {
+        "name": "UKR - Native",
+        "class": "devicon-argocd-plain",
+        "level": "50"
+      },
+      {
+        "name": "RUS - Native",
+        "class": "devicon-argocd-plain",
+        "level": "50"
+      },
+      {
+        "name": "ENG - B1",
+        "class": "devicon-argocd-plain",
+        "level": "50"
+      },
+      {
+        "name": "POL - A1",
+        "class": "devicon-argocd-plain",
+        "level": "50"
+      }
+    ]
+  }
+}

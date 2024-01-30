@@ -1,0 +1,176 @@
+{
+  "basic_info": {
+    "description_header": "Cześć",
+    "description": "🦉 Jestem Artur Czujkow. Pochodzę z Ukrainy i przyjechałem do Polski w grudniu 2023 roku. Obecnie szukam aktualnych ofert pracy. Gotów do pracy w biurze w Warszawie lub zdalnie z domu. Posiadam własny samochód. Chociaż od dłuższego czasu nie pracowałem w branży IT, to jednak posiadam wiele umiejętności i chcę się rozwijać w tym kierunku.",
+    "section_name": {
+      "about": "O mnie",
+      "projects": "Projekty",
+      "skills": "Umiejętności",
+      "experience": "Doświadczenie"
+    }
+  },
+  "projects": [
+    {
+      "title": "Muscle Clinic",
+      "startDate": "2017",
+      "description": "Najbardziej zaawansowana aplikacja, z jaką kiedykolwiek pracowałem. Nauczyłem się wielu technologii i mój kod był recenzowany przez wspaniałego przełożonego. W ramach tego projektu udało mi się rozpocząć moją przygodę w branży IT.",
+      "images": [
+        "images/portfolio/muscle-clinic/p1.png",
+        "images/portfolio/muscle-clinic/p2.png",
+        "images/portfolio/muscle-clinic/p3.png"
+      ],
+      "url": "http://muscleclinic.com.ua",
+      "technologies": [
+        {
+          "class": "devicon-wordpress-plain",
+          "name": "Wordpress"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-woocommerce-plain",
+          "name": "WooCommerce"
+        }
+      ]
+    },
+    {
+      "title": "Cefion blockchain SMA [NDA]",
+      "startDate": "2021",
+      "description": "Tworzenie aplikacji społecznościowej opartej na technologii BLOCKCHAIN przy użyciu React. Ostatnio miałem okazję pracować nad aplikacją społecznościową zbudowaną przy użyciu React. To było wspaniałe doświadczenie, podczas którego nauczyłem się wiele na temat React i rozwoju mediów społecznościowych. Proces tworzenia był wyzwaniem, ale też satysfakcjonujący. Musiałem być ostrożny, aby spełnić wymagania aplikacji. Nie mogę się doczekać, aby zobaczyć, jak ludzie będą korzystać z aplikacji w przyszłości. Uważam, że ma potencjał, aby być wartościowym narzędziem do łączenia ludzi. Dodatkowe funkcje aplikacji: Integracja kryptowalut: Użytkownicy mogą podłączyć swoje portfele kryptowalut do swoich kont i wysyłać oraz otrzymywać żetony od innych użytkowników. Nagrody w postaci żetonów: Użytkownicy mogą zdobywać żetony, czytając posty, śledząc innych użytkowników i uczestnicząc w innych aktywnościach. Te funkcje zostały zaprojektowane, aby uczynić aplikację bardziej atrakcyjną i satysfakcjonującą dla użytkowników. Na przykład użytkownicy mogą używać żetonów do zakupu funkcji premium lub wsparcia swoich ulubionych twórców. NDA Niestety nie mogę udostępniać więcej szczegółów na temat aplikacji. Podpisałem umowę o poufności, która zabrania mi ujawniania jakichkolwiek poufnych informacji na temat aplikacji.",
+      "images": [
+        "images/portfolio/cefion/p1.jpg",
+        "images/portfolio/cefion/p2.jpg",
+        "images/portfolio/cefion/p3.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    },
+    {
+      "title": "Charitable organization",
+      "startDate": "2022",
+      "description": "Cześć wszystkim! 🌟 Z radością dzielę się moją podróżą tworzenia strony internetowej dla organizacji charytatywnej przy użyciu WordPress! 🤝 Zanurzyłem się w świecie tworzenia stron internetowych, wykorzystując technologie takie jak HTML5, CSS3 i PHP, aby stworzyć przyjazną dla użytkownika i estetyczną stronę. WordPress pełnił rolę podstawy, dostarczając solidną platformę do bezproblemowego zarządzania treścią. Zagłębiając się głębiej, eksplorowałem mnóstwo wtyczek, aby zwiększyć funkcjonalność i zoptymalizować procesy. Od formularzy dotacji po kalendarze wydarzeń, wtyczki WordPress odgrywały kluczową rolę w dostosowaniu strony do potrzeb organizacji. Zapewnienie widoczności było kluczowe, dlatego poświęciłem czas na opanowanie strategii SEO. Optymalizacja treści, meta tagów i adresów URL podniosła pozycję strony w wynikach wyszukiwania, zwiększając jej zasięg i wpływ. Aby wzmocnić naszą sprawę, skorzystałem z potęgi reklamy Google Ads dla skierowanego przekazu. Tworzenie przekonujących kampanii reklamowych pomogło zwiększyć ruch i wsparcie dla inicjatyw organizacji. To niesamowita podróż, gdzie mieszają się kreatywność i technologia, aby wywrzeć pozytywny wpływ.",
+      "images": [
+        "images/portfolio/mad/p1.png",
+        "images/portfolio/mad/p2.png",
+        "images/portfolio/mad/p3.png"
+      ],
+      "url": "https://mad.army",
+      "technologies": [
+        {
+          "class": "devicon-wordpress-plain",
+          "name": "Wordpress"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-woocommerce-plain",
+          "name": "WooCommerce"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "URPAGE",
+      "title": "WordPress deweloper",
+      "years": "08.2017 - 08.2019 ",
+      "mainTech": ["WordPress 8/9/10"],
+      "technologies": [
+        "WordPress",
+        "WooCommerce",
+        "Bootstrap",
+        "HTML5",
+        "CSS3",
+        "Illustrator",
+        "Photoshop",
+        "Google Analytics"
+      ]
+    },
+    {
+      "company": "Telegram (TON Crystal)",
+      "title": "Frontend deweloper, мenadżer projektu",
+      "years": "12.2019 - 09.2020",
+      "mainTech": ["JavaScript 7/8"],
+      "technologies": [
+        "WordPress",
+        "WooCommerce",
+        "Bootstrap",
+        "HTML5",
+        "CSS3",
+        "Illustrator",
+        "Photoshop",
+        "Google Analytics",
+        "Blockchain",
+        "GraphQL",
+        "Smart Contracts"
+      ]
+    },
+    {
+      "company": "Cefion",
+      "title": "Frontend Deweloper, lider zespołu",
+      "years": "12.2021 - 02.2022",
+      "mainTech": ["React 7/8"],
+      "technologies": [
+        "WordPress",
+        "WooCommerce",
+        "Bootstrap",
+        "HTML5",
+        "CSS3",
+        "Illustrator",
+        "Photoshop",
+        "Google Analytics",
+        "Blockchain",
+        "GraphQL",
+        "Smart Contracts",
+        "Trello",
+        "Voice over internet protocol",
+        "MongoDB",
+        "MySQL Workbench"
+      ]
+    },
+    {
+      "company": "Ukraina",
+      "title": "Wolontariusz",
+      "years": "02.2022 - 01.2024",
+      "mainTech": ["wolontariusz"],
+      "technologies": ["ratować życia"]
+    }
+  ]
+}
