@@ -1,0 +1,176 @@
+{
+  "basic_info": {
+    "description_header": "Hi there",
+    "description": "🦉 I'm Artur Chuikov. I am from Ukraine and came to Poland in December 2023. Currently looking for current vacancies and work. Ready to work from an office in Warsaw or remotely from home. I have my own car. I haven’t worked in IT for a long time, but I have a lot of skills and I want to develop in this direction.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Muscle Clinic",
+      "startDate": "2017",
+      "description": "The most advanced application I have ever worked with. I learned a lot of technologies and had my code reviewed by a wonderful supervisor. In this project I was able to start my journey in IT.",
+      "images": [
+        "images/portfolio/muscle-clinic/p1.png",
+        "images/portfolio/muscle-clinic/p2.png",
+        "images/portfolio/muscle-clinic/p3.png"
+      ],
+      "url": "http://muscleclinic.com.ua",
+      "technologies": [
+        {
+          "class": "devicon-wordpress-plain",
+          "name": "Wordpress"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-woocommerce-plain",
+          "name": "WooCommerce"
+        }
+      ]
+    },
+    {
+      "title": "Cefion blockchain SMA [NDA]",
+      "startDate": "2021",
+      "description": "Building a BLOCKCHAIN Social Media App with React  I recently had the opportunity to work on a social media app built with React. It was a great experience and I learned a lot about React and social media development.  The development process was challenging but rewarding. I had to be careful to follow the app's requirements. I am excited to see how the app is used by people in the future. I think it has the potential to be a valuable tool for connecting people.  Additional app features:  -Cryptocurrency integration: Users could connect their cryptocurrency wallets to their accounts and send and receive tokens with other users.  -Token rewards: Users could earn tokens by reading posts, following other users, and participating in other activities.  These features were designed to make the app more engaging and rewarding for users. For example, users could use tokens to purchase premium features or to support their favorite creators. NDA  Unfortunately, I am not able to share any more details about the app. I signed an NDA that prohibits me from disclosing any confidential information about the app.  ",
+      "images": [
+        "images/portfolio/cefion/p1.jpg",
+        "images/portfolio/cefion/p2.jpg",
+        "images/portfolio/cefion/p3.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    },
+    {
+      "title": "Charitable organization",
+      "startDate": "2022",
+      "description": "Hey everyone! 🌟 Excited to share my journey of creating a website for a charitable organization using WordPress! 🤝  I delved into the world of web development, leveraging technologies like HTML5, CSS3, and PHP to craft a user-friendly and visually appealing site. WordPress served as the backbone, providing a robust platform for seamless content management.  Diving deeper, I explored a plethora of plugins to enhance functionality and streamline processes. From donation forms to event calendars, WordPress plugins played a crucial role in tailoring the site to the organization's needs.  Ensuring visibility was key, so I dedicated time to mastering SEO strategies. Optimizing content, meta tags, and URLs boosted the site's search engine ranking, amplifying its reach and impact.  To amplify our cause, I embraced the power of Google Ads for targeted outreach. Crafting compelling ad campaigns helped drive traffic and support to the organization's initiatives.  It's been an incredible journey blending creativity and technology to make a positive impact.",
+      "images": [
+        "images/portfolio/mad/p1.png",
+        "images/portfolio/mad/p2.png",
+        "images/portfolio/mad/p3.png"
+      ],
+      "url": "https://mad.army",
+      "technologies": [
+        {
+          "class": "devicon-wordpress-plain",
+          "name": "Wordpress"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-woocommerce-plain",
+          "name": "WooCommerce"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "URPAGE",
+      "title": "WordPress Developer",
+      "years": "08.2017 - 08.2019 ",
+      "mainTech": ["WordPress 8/9/10"],
+      "technologies": [
+        "WordPress",
+        "WooCommerce",
+        "Bootstrap",
+        "HTML5",
+        "CSS3",
+        "Illustrator",
+        "Photoshop",
+        "Google Analytics"
+      ]
+    },
+    {
+      "company": "Telegram (TON Crystal)",
+      "title": "Frontend developer, PM",
+      "years": "12.2019 - 09.2020",
+      "mainTech": ["JavaScript 7/8"],
+      "technologies": [
+        "WordPress",
+        "WooCommerce",
+        "Bootstrap",
+        "HTML5",
+        "CSS3",
+        "Illustrator",
+        "Photoshop",
+        "Google Analytics",
+        "Blockchain",
+        "GraphQL",
+        "Smart Contracts"
+      ]
+    },
+    {
+      "company": "Cefion",
+      "title": "Frontend developer, teamlead",
+      "years": "12.2021 - 02.2022",
+      "mainTech": ["React 7/8"],
+      "technologies": [
+        "WordPress",
+        "WooCommerce",
+        "Bootstrap",
+        "HTML5",
+        "CSS3",
+        "Illustrator",
+        "Photoshop",
+        "Google Analytics",
+        "Blockchain",
+        "GraphQL",
+        "Smart Contracts",
+        "Trello",
+        "Voice over internet protocol",
+        "MongoDB",
+        "MySQL Workbench"
+      ]
+    },
+    {
+      "company": "Ukraine",
+      "title": "Volunteer",
+      "years": "02.2022 - 01.2024",
+      "mainTech": ["Volunteer"],
+      "technologies": ["save lifes"]
+    }
+  ]
+}
