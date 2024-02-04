@@ -68,6 +68,11 @@
         "level": "90"
       },
       {
+        "name": "Webpack",
+        "class": "devicon-webpack-plain colored",
+        "level": "90"
+      },
+      {
         "name": "WordPress",
         "class": "devicon-wordpress-plain",
         "level": "85"
